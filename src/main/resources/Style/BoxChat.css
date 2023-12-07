@@ -1,0 +1,13 @@
+.backgroundColor {
+    -fx-background-color: white;
+}
+.leftMessage {
+    -fx-background-radius:  1 20 20 20;
+    -fx-background-color:  #f16d00;
+    -fx-effect:  dropshadow(three-pass-box, #4c4c4c, 15, 0, 0, 2);
+}
+.rightMessage {
+    -fx-background-color:  #f2acc6;
+    -fx-background-radius:  1 15 15 15;
+    -fx-effect:  dropshadow(three-pass-box, #4c4c4c, 15, 0, 0, 2);
+}

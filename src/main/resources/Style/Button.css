@@ -1,0 +1,6 @@
+.mouseHover:hover{
+    -fx-background-color: #fcfafa;
+}
+.mousePressed:pressed{
+    -fx-background-color: #a2a0a0;
+}
